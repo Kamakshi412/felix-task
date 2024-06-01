@@ -1,0 +1,74 @@
+.background {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.1)), url(./img/header-bg.jpg);
+    height: 100vh;
+    object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+
+}
+
+.bg1{
+    background-color: rgb(247, 242, 242);
+    padding: 10px;
+}
+.bg2{
+    background-color: rgb(248, 245, 245);
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.demo:hover {
+    color: rgb(231, 207, 51) !important;
+}
+
+.navbar-light .navbar-toggler {
+
+    color: rgb(231, 207, 51) !important;
+
+}
+
+
+.demo1:hover {
+    color: black !important;
+    background-color: rgb(249, 229, 96) !important;
+}
+
+.card1:hover {
+    background-color: rgba(239, 239, 121, 0.566);
+}
+
+
+
+
+
+.first {
+    /* border: 1px solid red; */
+
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.6)), url(./img/form\ background.jpg);
+    height: 90vh;
+    object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    margin-top: 30px;
+    /* border: 1px solid red; */
+
+}
+
+.btn3:hover {
+    background-color: rgba(236, 236, 74, 0.71) !important;
+
+}
+
+@media screen and (max-width: 1240px){
+
+    .demo8{
+        margin-top: 900px;
+    }
+
+}
+    
